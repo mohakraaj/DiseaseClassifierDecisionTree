@@ -1,4 +1,4 @@
-Dr Decision Maker 
+DiseaseClassifierDecisionTree
 ----------------------------------
 
 Doctor is experimenting with the decision trees
